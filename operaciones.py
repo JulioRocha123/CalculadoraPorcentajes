@@ -1,2 +1,3 @@
 #Definimos las funciones de los porcentajes
-def añadirporcetnaje():
+def operacionnotas (porcentaje,notas):
+    p = porcentaje 

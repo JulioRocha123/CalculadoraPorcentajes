@@ -20,3 +20,8 @@ def OpcionSeleccionada (op):
         return Salir
     else:
         print ("La opcion es invalida o incorrecta")
+
+#Se añade el porcentaje al array
+def añadirporcentaje():
+    porcentaje = {}
+    return porcentaje
